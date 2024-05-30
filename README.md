@@ -1,5 +1,8 @@
 # Netflix Top 10 Series Collection
 
+![Uploading Screenshot 2024-05-30 175940.png…]()
+
+
 ## Description
 This project is a web application that displays the top 10 series currently trending on Netflix. Built with React, the application fetches data from an API and presents it in a user-friendly interface.
 
