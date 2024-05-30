@@ -1,7 +1,6 @@
 # Netflix Top 10 Series Collection
 
-![![Screenshot 2024-05-30 175940](https://github.com/Dharm2412/Netflix-Top-10/assets/142787486/44888009-b681-4175-bc7e-3b51b0670537)
-](images/screenshot.png)
+![Screenshot 2024-05-30 175940](https://github.com/Dharm2412/Netflix-Top-10/assets/142787486/0321672a-a3f8-4aa8-ae85-9d4fbaa9b838)
 
 
 ## Description
